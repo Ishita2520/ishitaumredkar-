@@ -23,7 +23,7 @@
 - 💼 2+ years of experience in **Data Integration and Frontend Development**
 - 🎨 Passionate about **User-Centered Design**
 - 📊 Love turning **data into insights**
-- ⚡ Fun fact: **Built 40+ reusable UI components**
+- ⚡ Fun fact: **Built 20+ reusable UI components**
 
 <br clear="right"/>
 
