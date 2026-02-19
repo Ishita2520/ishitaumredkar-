@@ -72,12 +72,6 @@
 
 ---
 
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph&color=6AC0E2&line=163A9B&point=6AC0E2&area_color=163A9B" width="100%">
-
----
-
 ### 💡 Random Dev Quote
 
 <div align="center">
