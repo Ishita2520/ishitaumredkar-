@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ishita-umredkar)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishitaumredkar07@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-163A9B?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-163A9B?style=for-the-badge&logo=About.me&logoColor=white)]([https://your-portfolio.com](https://ishitaumredkar25.wixstudio.com/my-site-5?rc=test-site))
 
 </div>
 
